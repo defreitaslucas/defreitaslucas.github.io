@@ -24,3 +24,11 @@ body {
 .section-body {
   margin-top: 100px;
 }
+
+#indice li{
+  display: inline-block;
+}
+
+#indice ul{
+  list-style: none;
+}
